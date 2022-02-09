@@ -1,0 +1,11 @@
+[
+    {
+        "model": "gamerraterapi.review",
+        "pk": 1,
+        "fields": {
+           "player": 1,
+           "game": 1,
+           "description": "One of the best games ever made"
+        }
+    }
+]

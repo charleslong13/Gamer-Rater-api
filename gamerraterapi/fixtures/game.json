@@ -1,0 +1,28 @@
+[
+    {
+        "model": "gamerraterapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Super Smash Bros",
+            "description": "Multiplayer fighting game",
+            "designer": "Nintendo",
+            "year_released": 1999,
+            "num_of_players": 4,
+            "time_to_play": 1,
+            "age_rec": 8 
+        }
+    },
+    {
+        "model": "gamerraterapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "Mortal Kombat",
+            "description": "Multiplayer fighting game",
+            "designer": "Midway Games",
+            "year_released": 1992,
+            "num_of_players": 4,
+            "time_to_play": 1,
+            "age_rec": 12 
+        }
+    }
+]

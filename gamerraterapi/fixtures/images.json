@@ -1,0 +1,11 @@
+[
+    {
+        "model": "gamerraterapi.image",
+        "pk": 1,
+        "fields": {
+            "player": 1,
+            "game": 1,
+            "imageURL": "https://cdn3.iconfinder.com/data/icons/ui-line-pixel-perfect-1/32/ui_line_smile_media_ui-512.png"
+        }
+    }
+]

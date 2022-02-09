@@ -1,0 +1,17 @@
+[
+    {
+        "model": "gamerraterapi.player",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "bio": "me"
+        }
+    }
+]
+
+
+
+
+
+
+
